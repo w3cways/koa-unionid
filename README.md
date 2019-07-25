@@ -1,5 +1,5 @@
 # koa-unionid
-Koa 获取小程序unionId、openId
+Koa 获取小程序unionId、openId的服务端代码，[查看文章](https://www.w3cways.com/2331.html)
 
 
 ## 安装运行
