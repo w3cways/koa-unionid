@@ -1,2 +1,2 @@
 # koa-unionid
-get miniProgram unionID by koa
+get unionID from miniProgram  by koa
